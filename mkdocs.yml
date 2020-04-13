@@ -13,7 +13,7 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.mark
 
-pages:
+nav:
 - Introduction: index.md
 - Setup and Configuration: setup.md
 - Upgrading from older versions: upgrade.md
